@@ -1,4 +1,4 @@
-# PowerToys installer instructions
+# PowerToys installer instructions (Delete this)
 
 ## MSI installer instructions
 
